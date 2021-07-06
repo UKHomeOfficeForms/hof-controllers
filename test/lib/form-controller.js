@@ -2,7 +2,7 @@
 
 const Controller = require('../../lib/form-controller');
 const ErrorClass = require('../../lib/error');
-const Form = require('hof-form-controller');
+const Form = require('hof-form-controller').DeprecatedForm;
 const Model = require('hof-model');
 const request = require('reqres').req;
 const response = require('reqres').res;

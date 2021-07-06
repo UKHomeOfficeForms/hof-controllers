@@ -1,6 +1,6 @@
 {
   "name": "hof-controllers",
-  "version": "6.0.3",
+  "version": "6.1.0",
   "description": "A collection of controllers commonly used in HOF",
   "main": "index.js",
   "license": "MIT",
@@ -18,7 +18,7 @@
   "dependencies": {
     "deprecate": "^1.0.0",
     "hof-emailer": "^1.0.0",
-    "hof-form-controller": "^2.0.0",
+    "hof-form-controller": "^6.4.0",
     "hogan.js": "^3.0.2",
     "i18n-lookup": "^0.1.0",
     "lodash": "^4.16.3",
